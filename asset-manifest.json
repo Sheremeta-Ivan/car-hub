@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/car-hub/static/css/main.7acaea2f.css",
-    "main.js": "/car-hub/static/js/main.07d3183d.js",
+    "main.css": "/car-hub/static/css/main.bed7e244.css",
+    "main.js": "/car-hub/static/js/main.32dc76dc.js",
+    "static/media/hero.png": "/car-hub/static/media/hero.332de74fc6bed23b1095.png",
+    "static/media/Car-Rental.jpg": "/car-hub/static/media/Car-Rental.e14847108e9f353ea152.jpg",
+    "static/media/no-results.png": "/car-hub/static/media/no-results.41ade0ad50c52a37aa05.png",
+    "static/media/no-favorites.png": "/car-hub/static/media/no-favorites.3f5364055eac7f8d5310.png",
     "index.html": "/car-hub/index.html",
-    "main.7acaea2f.css.map": "/car-hub/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/car-hub/static/js/main.07d3183d.js.map"
+    "static/media/heart.svg": "/car-hub/static/media/heart.ac060e771360fcc26ebb0c86173c8396.svg",
+    "static/media/active.svg": "/car-hub/static/media/active.97847e9195943f61800c97807e735d4f.svg",
+    "static/media/x.svg": "/car-hub/static/media/x.f3cbdd58dc25ca7cbb3d242106b56fb9.svg",
+    "static/media/chevron-up.svg": "/car-hub/static/media/chevron-up.6155ebb1460286357e7bbfff67169dca.svg",
+    "static/media/chevron-down.svg": "/car-hub/static/media/chevron-down.24cd320d509ea2ebbeb4265f8030bafb.svg",
+    "main.bed7e244.css.map": "/car-hub/static/css/main.bed7e244.css.map",
+    "main.32dc76dc.js.map": "/car-hub/static/js/main.32dc76dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.bed7e244.css",
+    "static/js/main.32dc76dc.js"
   ]
 }
